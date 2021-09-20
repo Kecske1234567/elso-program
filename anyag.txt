@@ -1,0 +1,6 @@
+teli elemek:
+-html
+-head
+-body
+git config --global user.email "bodi.laszlo@szbiszeged.hu"
+git config --global user.name "Kecske1234567"
